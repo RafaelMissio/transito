@@ -1,4 +1,4 @@
-package com.missio.transitoAPI.api.domain.model;
+package com.missio.transitoAPI.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
